@@ -21,9 +21,11 @@ This project leverages a variety of web technologies to demonstrate different as
   by Tech with Tim
   [Watch the Tutorial](https://www.youtube.com/watch?v=2ml4x0rO1PQ)
 
+---
 ### 👸 Developed By 👩‍💻
 
-This project is developed and maintained by **Remas Safi**. I'm always open to feedback, and suggestions. Feel free to connect with me!
+This project is developed and maintained by **Remas Safi**.    
+I'm always open to feedback, and suggestions. Feel free to connect with me!
 
 - **GitHub**: [Remas Safi](https://github.com/RemasSafi)
 - **LinkedIn**: [Remas Safi](https://www.linkedin.com/in/remas-safi/)
