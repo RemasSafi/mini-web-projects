@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 5rem;
+}
+
+h2 {
+    font-size: 3em;
+}
+
+button {
+    cursor: pointer;
+    font-size: 1.1rem;
+    margin: 0.5rem;
+    padding: 0.3rem 1rem;
+    border-radius: 1rem;
+}
